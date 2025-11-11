@@ -1,0 +1,502 @@
+{
+  "chemistry": [
+    {
+      "name": "비커",
+      "material": "유리",
+      "feature": "액체 혼합 및 가열용",
+      "tags": ["#용기", "#1000mL"],
+      "img": "img/chemistry/beaker.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "https://www.youtube.com/embed/zgyHStzGgYc"
+    },
+    {
+      "name": "약숟가락",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/lab_spoon.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "거름종이",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/filter_paper.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "약포지",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/weighing_paper.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "스포이드병",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/dropper_bottle.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "바이알병",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/vial_bottle.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "컵",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/cup.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "세구 시약병",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/narrow_mouth_reagent_bottle.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "광구 시약병",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/wide_mouth_reagent_bottle.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "페트리 접시",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/petri_dish.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "집게 클램프",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/clamp.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "링 클램프",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/ring_clamp.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "클램프 홀더",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/clamp_holder.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "유리막대",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/glass_rod.png",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "아크릴막대",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/acrylic_rod.png",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "삼각플라스크",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/erlenmeyer_flask.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "고무마개",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/rubber_stopper.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "유리관",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/glass_tube.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "메스실린더",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/measuring_cylinder.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "온도계",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/thermometer.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "스포이드",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/dropper.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "부피플라스크",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/volumetric_flask.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "막자사발",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/mortar_and_pestle.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "플라스크 마개",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/flask_stopper.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "보안경",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/safety_glasses.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "Y자관",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/Y-shaped_tube.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "피펫",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/pipette.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "둥근바닥플라스크",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/round-bottom_flask.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "플라스크 받침대",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/flask_support.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "마그네틱바",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/magnetic_bar.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "마그네틱 리트리버",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/magnetic_retriever.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "핀셋",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/pincette.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "깔때기",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/funnel.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "유리 피펫",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/glass_pipette.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "피펫 펌프",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/pipette_pump.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "안전 깔때기",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/safety_funnel.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "U자관",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/U-shaped_tube.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "점도계",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/viscometer.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "소화담요",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/fire_blanket.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "안전보호구함",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/safety_equipment_cabinet.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "퓸 후드",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/fume_hood.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "폐액통",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/waste_safety_container.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "회전 증발 농축기",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/rotary_evaporator.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "증류수 탱크",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/distrilled_water_tank.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "증류수 제조기",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/distrilled_water_making_machine.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "분광광도계",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/spectrophotometer.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "교반믹서",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/stirrer.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "비상용 샤워기",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/emergency_shower.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    },
+    {
+      "name": "ㅁ",
+      "material": "스테인리스",
+      "feature": "고체 시약을 덜어낼 때 사용",
+      "tags": ["#도구"],
+      "img": "img/chemistry/emergency_shower.jpg",
+      "map": "maps/chemistry_lab_location.png",
+      "video": "videos/chemistry/embed/"
+    }
+  ],
+
+  "biology": [
+    {
+      "name": "고압 멸균기",
+      "feature": "세균 및 바이러스 제거용",
+      "tags": ["#소독", "#멸균"],
+      "img": "img/biology/autoclave.jpg",
+      "map": "maps/biology_lab_location.png",
+      "video": "videos/biology/autoclave_demo.mp4"
+    },
+    {
+      "name": "유전자 증폭기",
+      "feature": "DNA 복제(PCR) 실험 장비",
+      "tags": ["#분자생물학", "#유전"],
+      "img": "img/biology/pcr_machine.jpg",
+      "map": "maps/biology_lab_location.png",
+      "video": "videos/biology/pcr_process.mp4"
+    }
+  ],
+
+  "physics": [
+    {
+      "name": "무선 MBL 센서",
+      "feature": "데이터 수집 및 분석용",
+      "tags": ["#측정", "#디지털"],
+      "img": "img/physics/mbl_sensor.jpg",
+      "map": "maps/physics_lab_location.png",
+      "video": "videos/physics/mbl_demo.mp4"
+    },
+    {
+      "name": "오실로스코프",
+      "feature": "전압 변화를 시각화",
+      "tags": ["#전기", "#파형", "#광학"],
+      "img": "img/physics/oscilloscope.jpg",
+      "map": "maps/physics_lab_location.png",
+      "video": "videos/physics/oscilloscope_intro.mp4"
+    }
+  ],
+
+  "earth": [
+    {
+      "name": "단안편광현미경",
+      "feature": "암석·광물 관찰용",
+      "tags": ["#관찰", "#지질"],
+      "img": "img/earth/polarizing_microscope.jpg",
+      "map": "maps/earth_lab_location.png",
+      "video": "videos/earth/microscope_tutorial.mp4"
+    },
+    {
+      "name": "자동추적천체망원경",
+      "feature": "별과 행성 자동 추적 관측",
+      "tags": ["#천문", "#광학"],
+      "img": "img/earth/telescope.jpg",
+      "map": "maps/earth_lab_location.png",
+      "video": "videos/earth/telescope_usage.mp4"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>기구 | Lab Assistant</title>
+  <link rel="stylesheet" href="style_equipment.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="title">Lab Assistant</h1>
+    <a href="index.html" class="home-button">←</a>
+    <div class="layout">
+      <aside class="sidebar">
+        <ul>
+          <li data-section="chemistry" class="active">화학실</li>
+          <li data-section="biology">생명과학실</li>
+          <li data-section="physics">물리실</li>
+          <li data-section="earth">지구과학실</li>
+        </ul>
+      </aside>
+
+      <main class="content">
+        <div id="chemistry" class="section active">
+          <div class="grid-container" id="chemistry-grid"></div>
+        </div>
+        <div id="biology" class="section">
+          <div class="grid-container" id="biology-grid"></div>
+        </div>
+        <div id="physics" class="section">
+          <div class="grid-container" id="physics-grid"></div>
+        </div>
+        <div id="earth" class="section">
+          <div class="grid-container" id="earth-grid"></div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <button class="popup-close" id="popup-close">&times;</button>
+      <div class="popup-header">
+        <div class="popup-image" id="popup-image"></div>
+        <div class="popup-info">
+          <h2 id="popup-name"></h2>
+          <p id="popup-material"></p>
+          <p id="popup-feature"></p>
+          <p id="popup-tag"></p>
+        </div>
+        <div class="popup-map" id="popup-map">지도 영역 (예시)</div>
+      </div>
+      <div class="popup-video">
+        <iframe
+          id="popup-iframe"
+          width="100%"
+          height="400"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </div>
+
+  <script src="script_equipment.js"></script>
+</body>
+</html>
